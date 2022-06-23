@@ -1,9 +1,9 @@
 # Intrusion Detection in IOT using ML
 
 ## Datasets 
-Two datasets are used for analysis
-1. 
-1. IOTID20.csv
+Foloowing dataset is being used for analysis
+
+1. IOTID20.csv 
 
 
 ## Weka
