@@ -7,8 +7,17 @@ Following dataset is being used for analysis
 2. NF-UQ-NIDS-v2.csv
 
 ## Weka
+- Weka is an open source machine learning software in Java. 
+- It has a user friendly GUI also in terms of analyzing dataset rather doing on Microsoft Excel. 
+- Also it provides brief repot/Summary when done with analysis. 
 
+### Link
+Official Weka [Github Link](https://github.com/bnjmn/weka)
 
+### Documentation
+You can refer:\
+https://docs.weka.io/ \
+https://waikato.github.io/weka-wiki/documentation/
 
 
 
