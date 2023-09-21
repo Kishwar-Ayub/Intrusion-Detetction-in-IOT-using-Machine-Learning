@@ -12,8 +12,8 @@ Following dataset is being used for analysis
 - Also it provides brief repot/Summary when done with analysis. 
 
 ### Link
-Official Weka [Github Link](https://github.com/bnjmn/weka).\
-For 2nd Data set [Github Link](https://www.kaggle.com/datasets)
+Official Weka [Weka](https://github.com/bnjmn/weka).\
+For 2nd Data set [NF-UQ-NIDS-v2.csv](https://www.kaggle.com/datasets)
 
 ### Documentation
 You can refer:\
